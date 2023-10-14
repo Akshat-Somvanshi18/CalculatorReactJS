@@ -1,0 +1,38 @@
+body,*{
+  margin: 0;
+  padding: 0;
+}
+.main{
+  height: 100vh;
+  background-image: linear-gradient(to right,rgb(0, 217, 255),rgb(130, 243, 130));
+  padding-top: 200px;
+  
+}
+.task2Main{
+  width: 100%;
+  height: 100vh;
+  background-image:linear-gradient(to right ,#01B3EF , #02EF87); 
+}
+.task2Div{
+  width: 200px;
+}
+.task2Btn{
+  width: 50px;
+  height: 50px;
+  border: 0px;
+  background-color: #070B26;
+  color: white;
+}
+.task2Btn2{
+  width: calc(200px/5);
+  height: 50px;
+  border: 0px;
+  background-color: #070B26;
+  color: white;
+}
+.task2Input{
+  width: 200px;
+  height: 100px;
+  background-color: rgb(23,45,103);
+  color: white;
+}
